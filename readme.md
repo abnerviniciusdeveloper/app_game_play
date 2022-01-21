@@ -1,1 +1,3 @@
-Nesse projeto vamos subir ele no git.
+Esse projeto é um estudo em React-Native, ainda está em produção.
+
+#SÓVAMOS
